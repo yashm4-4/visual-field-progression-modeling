@@ -23,7 +23,7 @@ We used two major datasets:
 
 2. UW Biomedical AI Dataset: 3,871 patients, 28,943 VF tests
 
-Together, these datasets allow us to study glaucoma progression using real functional measurements rather than structural imaging alone.
+Together, these datasets allow us to study glaucoma and visual loss progression using real functional measurements rather than structural imaging alone.
 
 # 2. Project Goals
 
@@ -97,7 +97,7 @@ LSTM/
 Huang et al. GRAPE: A multi-modal dataset of longitudinal follow-up visual fields and fundus images for glaucoma management.
 
 2. UW Biomedical AI Dataset
-Wang et al. A large-scale clinical visual field database for glaucoma analysis.
+Wang et al. A large-scale clinical visual field database for visual field analysis.
 
 3. Centers for Disease Control and Prevention. (2024, May 15). Fast facts: Vision loss. U.S. Department of Health and Human Services. https://www.cdc.gov/vision-health/data-research/vision-loss-facts/index.html
    
