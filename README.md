@@ -1,8 +1,15 @@
 # Chem 277B — Machine Learning Algorithms
 ## Machine Learning Applications for Visual Field Analysis: A Study of Vision Loss Progression
-Team 1 — UC Berkeley, College of Chemistry
+UC Berkeley, College of Chemistry
 
-Contributors: David Houshangi, Lily Hirano, Kirk Ehmsen, Christian Fernandez, Yash Maheshwaran
+## Personal Contribution (Yash Maheshwaran)
+
+My primary contribution to this project focused on gradient boosting–based modeling of long-term visual field progression. I designed and implemented models to predict future target slopes of mean sensitivity (MS) decline using early longitudinal measurements, and engineered temporal and acceleration-based features. I performed feature-importance analysis to identify the dominant predictors of vision loss. Finally, I worked with spatial coordinate transformations to preserve the perceptual topology of visual field sensitivity points.
+
+Relevant code is primarily located in:
+- `gradient_boosting/`
+
+Contributors: Yash Maheshwaran, David Houshangi, Lily Hirano, Kirk Ehmsen, Christian Fernandez
 
 # 1. Project Overview
 
