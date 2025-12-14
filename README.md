@@ -4,7 +4,7 @@ UC Berkeley, College of Chemistry
 
 ## Personal Contribution (Yash Maheshwaran)
 
-My primary contribution to this project focused on gradient boosting–based modeling of long-term visual field progression. I designed and implemented models to predict future target slopes of mean sensitivity (MS) decline using early longitudinal measurements, and engineered temporal and acceleration-based features. I performed feature-importance analysis to identify the dominant predictors of vision loss. Finally, I worked with spatial coordinate transformations to preserve the perceptual topology of visual field sensitivity points.
+My primary contribution to this project focused on gradient boosting–based modeling of long-term visual field progression. I designed and implemented models to predict future slopes of mean sensitivity (MS) decline using early longitudinal measurements, and engineered temporal and acceleration-based features. I performed feature-importance analysis to identify the dominant predictors of vision loss. Finally, I worked with spatial coordinate transformations to preserve the perceptual topology of visual field sensitivity points.
 
 Relevant code is primarily located in:
 - `gradient_boosting/`
@@ -15,7 +15,7 @@ Contributors: Yash Maheshwaran, David Houshangi, Lily Hirano, Kirk Ehmsen, Chris
 
 Glaucoma is a chronic, progressive disease that damages the optic nerve and can lead to irreversible blindness if not detected early. Because early stages often have no symptoms, nearly half of affected individuals do not know they have the disease. Visual field (VF) testing is one of the primary tools for diagnosing glaucoma and tracking its progression, as it measures the patient’s functional vision over time.
 
-This project explores how modern machine-learning methods, including unsupervised learning, Gradient Boosts, Random Forests, CNNs, and LSTMs can be used to analyze visual field maps, detect patterns of glaucomatous loss, and predict future progression.
+This project explores how modern machine-learning methods, including unsupervised learning, Gradient Boosting, Random Forests, CNNs, and LSTMs can be used to analyze visual field maps, detect patterns of glaucomatous loss, and predict future progression.
 
 We used two major datasets:
 
