@@ -4,11 +4,17 @@ Team 1 — UC Berkeley, College of Chemistry
 
 Contributors: David Houshangi, Lily Hirano, Kirk Ehmsen, Christian Fernandez, Yash Maheshwaran
 
+### My contributions
+
+I developed gradient boosting models to study long-term visual field progression using early longitudinal measurements, engineered temporal features, and analyzed feature importance. I also worked on spatial coordinate transformations for visual field sensitivity measurements. See [`gradient_boosting/`](gradient_boosting/).
+
+Original collaborative repository: [lilyhirano/Visual-Field-Analysis](https://github.com/lilyhirano/Visual-Field-Analysis).
+
 # 1. Project Overview
 
 Glaucoma is a chronic, progressive disease that damages the optic nerve and can lead to irreversible blindness if not detected early. Because early stages often have no symptoms, nearly half of affected individuals do not know they have the disease. Visual field (VF) testing is one of the primary tools for diagnosing glaucoma and tracking its progression, as it measures the patient’s functional vision over time.
 
-This project explores how modern machine-learning methods, including unsupervised learning, Random Forests, CNNs, and LSTMs can be used to analyze visual field maps, detect patterns of glaucomatous loss, and predict future progression.
+This project explores how modern machine-learning methods, including unsupervised learning, gradient boosting, Random Forests, CNNs, and LSTMs can be used to analyze visual field maps, detect patterns of glaucomatous loss, and predict future progression.
 
 We used two major datasets:
 
